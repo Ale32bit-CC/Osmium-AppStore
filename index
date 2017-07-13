@@ -1,8 +1,8 @@
 {
-  {
+  ["Firewolf"] = {
     file="firewolf.opk",
     desc="A website browser!",
     author="GravityScore & 1lann",
-    size=81
+    size=81,
   },
 }
