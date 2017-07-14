@@ -1,5 +1,6 @@
 {
   ["Firewolf"] = {
+    id="gravityscore.firewolf",
     file="gravityscore.firewolf.opk",
     desc="A website browser!",
     author="GravityScore & 1lann",
